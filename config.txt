@@ -1,4 +1,4 @@
-token=NjIyMTgxMzU4MjczNTYwNjA3.XX-1Vw.d3BYoOvx_QKbdx3ozfB2vjwC2vY
+token=NTg2MjMyNjAxNjczNDY1ODU2.XX-22w.-rSv_Fn3S0QV3v_3eP8JvSpD_gs
 owner=458146650758840320
 prefix=J
 game=Type Jhelp
