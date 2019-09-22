@@ -1,6 +1,6 @@
-token=NTg2MjMyNjAxNjczNDY1ODU2.XX-22w.-rSv_Fn3S0QV3v_3eP8JvSpD_gs
+token=NjI0OTkzMTk2NDM0MjU5OTg5.XYZFHw._zSWZ8GfsM9jB2T7sP_Yf5Hfjdk
 owner=458146650758840320
-prefix=J
-game=Type Jhelp
+prefix=d
+game=Type dplay 
 stayinchannel=true
 songinstatus=false
