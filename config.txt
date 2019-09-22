@@ -1,6 +1,6 @@
-token=NjI0OTkzMTk2NDM0MjU5OTg5.XYZFHw._zSWZ8GfsM9jB2T7sP_Yf5Hfjdk
+token=NjI1MjUyNzQ1NTQwMDEwMDA1.XYc2Bw.oZZJYIgXwcikTb_4R3xNZDO-yaY
 owner=458146650758840320
-prefix=d
-game=Type dplay 
+prefix=A
+game=Type Aplay 
 stayinchannel=true
 songinstatus=false
